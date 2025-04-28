@@ -1,0 +1,83 @@
+
+efwin_taixiu.png
+size: 1167,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_text
+  rotate: true
+  xy: 1058, 773
+  size: 271, 33
+  orig: 271, 33
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 700, 416
+  size: 628, 356
+  orig: 628, 356
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 700, 214
+  size: 200, 286
+  orig: 200, 286
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 184
+  size: 609, 162
+  orig: 609, 162
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 348
+  size: 696, 696
+  orig: 696, 696
+  offset: 0, 0
+  index: -1
+nohu
+  rotate: false
+  xy: 2, 2
+  size: 547, 180
+  orig: 547, 180
+  offset: 0, 0
+  index: -1
+rau1
+  rotate: true
+  xy: 988, 220
+  size: 194, 169
+  orig: 194, 169
+  offset: 0, 0
+  index: -1
+rau2
+  rotate: false
+  xy: 551, 13
+  size: 190, 169
+  orig: 190, 169
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 743, 67
+  size: 142, 145
+  orig: 142, 145
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: true
+  xy: 1032, 84
+  size: 134, 133
+  orig: 134, 133
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 887, 68
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1
