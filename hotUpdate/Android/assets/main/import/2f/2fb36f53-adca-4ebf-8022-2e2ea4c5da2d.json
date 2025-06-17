@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [1,["1518ff6f5"],["_textureSetter"],["cc.SpriteFrame"],0,[{"name":"bg_iconMini","rect":[3,711,160,157],"offset":[0,0],"originalSize":[160,157],"rotated":1,"capInsets":[0,0,0,0]}],[0],0,[0],[0],[0]]
+=======
+[1,["0avYO+LeJIVqnzdJzWF7Za"],["_textureSetter"],["cc.SpriteFrame"],0,[{"name":"bg_iconMini","rect":[0,0,160,157],"offset":[0,0],"originalSize":[160,157],"capInsets":[0,0,0,0]}],[0],0,[0],[0],[0]]
+>>>>>>> c7f83a5dadb0911add0ce4268b8821ed45097442
